@@ -8,3 +8,6 @@ I am learning to make a magazine inside a git repository
 the .gitignore file specifies files and directories that Git should ignore inside this repository.
 *.class patterns are ignored because they are generated on compile and can be regenerated on recompile. 
 /target/ files are ignored because the can be recreated by running maven commands, the target is build output and not necessary to keep when it can be recreated. 
+
+# branch usage 
+editor/review branch is used for the editor to review the changes made.
