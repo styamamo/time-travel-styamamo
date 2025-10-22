@@ -11,3 +11,6 @@ the .gitignore file specifies files and directories that Git should ignore insid
 
 # branch usage
 author/idea-sprint branch is used to draft idea for sprint intervals for the time machine.
+feat/polish addresses the issue of polishing the time machine.
+feat/content is used to address the issue of the contents in the time machine. 
+feat/layout is used to address the issue with the layout, e.g creating the layout for the time machine.
