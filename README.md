@@ -10,5 +10,6 @@ the .gitignore file specifies files and directories that Git should ignore insid
 /target/ files are ignored because the can be recreated by running maven commands, the target is build output and not necessary to keep when it can be recreated. 
 
 # branch usage
-the point of this branch is to address the issue with the layout
+feat/content is used to address the issue of the contents in the time machine. 
+the point of this branch feat/layout is to address the issue with the layout
 e.g creating the layout for the time machine
