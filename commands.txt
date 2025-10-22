@@ -1,1 +1,14 @@
-
+1.1 github ui new repository, title: time-travel-styamamo
+1.2 github ui add README.md
+1.3 bash mkdir zine, git add zine
+1.4 github ui add new file intro.md in zine; time machine
+1.5 github ui new file .gitignore, github ui edit README
+1.6 github ui new file LICENSE, new file CODE_OF_CONDUCT.md
+1.7 github ui new branch author/idea-sprint and editor/review, edit README
+1.8 github ui issues->new issue Layout, Content, Polish(cleanup)
+1.9 github ui new branch feat/layout, feat/content, feat/polish, make new file zine/layout.md, zine/content.md, zine/polish.md. Pull Rquest each branch with comment close issue#, merge branches with main
+1.10 github desktop history
+1.11 github desktop, main branch, vscode, edit zine/intro.md in both author/idea-sprint and editor/review branches. commit, push, github ui pull request, resolve confolict and merge
+1.12 bash git tag v0.1, git tag -a v1.0 -m "First full release of the zine", git push origin --tags
+1.13 github ui tags, view all, releases, tag v1.0, 
+1.14 github ui new file GIT_JOURNAL.md, edit file. 
